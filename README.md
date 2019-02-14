@@ -18,8 +18,8 @@
 #@ cp.txt : contenu du code permanent
 #@ tp1.c : fichier source contenant le fichier main
 #@ Makefile : cibles et les dépendances du fichier source 
-#@
+#@ .PHONY: Les fichiers à supprimmer 
 #@ Références : les diapos et le manuel de Kernighan
 #@
 #@Satut : Le projet fonctionne et compile en ligne de commande 
-#@        ./tp1
+#@        ./tp1 ainsi les autres fonctionnalités
