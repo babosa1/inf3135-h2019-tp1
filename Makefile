@@ -1,7 +1,7 @@
 FILENAME=tp1
-cp=  GUSW12017907 
- CODE_permanent = GUSW12017907
- cp.txt = CODE permanent
+cp=GUSW12017907 
+CODE_permanent = GUSW12017907
+cp.txt=CODE permanent
  
 CC=gcc
 EXEC= tp1
